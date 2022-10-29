@@ -1,0 +1,45 @@
+C:\Users\STUDENT\Desktop\Mustafa\Project\Project\obj\Debug\net6.0\Project.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Desktop\Mustafa\Project\Project\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\Mustafa\Project\Project\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\Mustafa\Project\Project\obj\Debug\net6.0\Project.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\Mustafa\Project\Project\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\Mustafa\Project\Project\bin\Debug\net6.0\Project.exe
+C:\Users\STUDENT\Desktop\Mustafa\Project\Project\bin\Debug\net6.0\Project.deps.json
+C:\Users\STUDENT\Desktop\Mustafa\Project\Project\bin\Debug\net6.0\Project.runtimeconfig.json
+C:\Users\STUDENT\Desktop\Mustafa\Project\Project\bin\Debug\net6.0\Project.dll
+C:\Users\STUDENT\Desktop\Mustafa\Project\Project\bin\Debug\net6.0\Project.pdb
+C:\Users\STUDENT\Desktop\Mustafa\Project\Project\obj\Debug\net6.0\Project.dll
+C:\Users\STUDENT\Desktop\Mustafa\Project\Project\obj\Debug\net6.0\refint\Project.dll
+C:\Users\STUDENT\Desktop\Mustafa\Project\Project\obj\Debug\net6.0\Project.pdb
+C:\Users\STUDENT\Desktop\Mustafa\Project\Project\obj\Debug\net6.0\Project.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\Mustafa\Project\Project\obj\Debug\net6.0\ref\Project.dll
+I:\Mustafa\Project\Project\bin\Debug\net6.0\Project.exe
+I:\Mustafa\Project\Project\bin\Debug\net6.0\Project.deps.json
+I:\Mustafa\Project\Project\bin\Debug\net6.0\Project.runtimeconfig.json
+I:\Mustafa\Project\Project\bin\Debug\net6.0\Project.dll
+I:\Mustafa\Project\Project\bin\Debug\net6.0\Project.pdb
+I:\Mustafa\Project\Project\obj\Debug\net6.0\Project.csproj.AssemblyReference.cache
+I:\Mustafa\Project\Project\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+I:\Mustafa\Project\Project\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+I:\Mustafa\Project\Project\obj\Debug\net6.0\Project.AssemblyInfo.cs
+I:\Mustafa\Project\Project\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+I:\Mustafa\Project\Project\obj\Debug\net6.0\Project.dll
+I:\Mustafa\Project\Project\obj\Debug\net6.0\refint\Project.dll
+I:\Mustafa\Project\Project\obj\Debug\net6.0\Project.pdb
+I:\Mustafa\Project\Project\obj\Debug\net6.0\Project.genruntimeconfig.cache
+I:\Mustafa\Project\Project\obj\Debug\net6.0\ref\Project.dll
+I:\Fiverr Work\Mustafa\Project\Project\bin\Debug\net6.0\Project.exe
+I:\Fiverr Work\Mustafa\Project\Project\bin\Debug\net6.0\Project.deps.json
+I:\Fiverr Work\Mustafa\Project\Project\bin\Debug\net6.0\Project.runtimeconfig.json
+I:\Fiverr Work\Mustafa\Project\Project\bin\Debug\net6.0\Project.dll
+I:\Fiverr Work\Mustafa\Project\Project\bin\Debug\net6.0\Project.pdb
+I:\Fiverr Work\Mustafa\Project\Project\obj\Debug\net6.0\Project.csproj.AssemblyReference.cache
+I:\Fiverr Work\Mustafa\Project\Project\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+I:\Fiverr Work\Mustafa\Project\Project\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+I:\Fiverr Work\Mustafa\Project\Project\obj\Debug\net6.0\Project.AssemblyInfo.cs
+I:\Fiverr Work\Mustafa\Project\Project\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+I:\Fiverr Work\Mustafa\Project\Project\obj\Debug\net6.0\Project.dll
+I:\Fiverr Work\Mustafa\Project\Project\obj\Debug\net6.0\refint\Project.dll
+I:\Fiverr Work\Mustafa\Project\Project\obj\Debug\net6.0\Project.pdb
+I:\Fiverr Work\Mustafa\Project\Project\obj\Debug\net6.0\Project.genruntimeconfig.cache
+I:\Fiverr Work\Mustafa\Project\Project\obj\Debug\net6.0\ref\Project.dll
